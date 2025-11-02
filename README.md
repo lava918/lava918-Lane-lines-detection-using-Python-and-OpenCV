@@ -20,10 +20,10 @@ I'll explain each step in details below.
 
 ## **Environement:**
 ---
-- Windows 7
-- Anaconda 4.3.29
-- Python 3.6.2
-- OpenCV 3.1.0
+- > Windows 7
+- > Anaconda 4.3.29
+- > Python 3.6.2
+- > OpenCV 3.1.0
 
 ### **1. Loading test images:**
 ----
@@ -264,3 +264,4 @@ def process_video(test_video, output_video):
 ----
 The project succeeded in detecting the lane lines clearly in the video streams.
 This project is intended to only detect (mostly) straight lines. Detecting curved lane line is behind the scope of this work.
+
